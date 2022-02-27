@@ -1,21 +1,3 @@
-# Hi .
-
-Script :
-```
-If Player Join Your Server you can send player data to Discord
-في حال دخول الاعب الى سيرفرك يمكن إرسال معلوماتة الى الدسكورد
-```
-
-Price : 10$.#
-
-View :
-```
-Ar :
-https://cdn.discordapp.com/attachments/907615302928453733/947550368840175636/unknown.png
-En :
-https://cdn.discordapp.com/attachments/907615302928453733/947550421768105994/unknown.png
-```
-
 Data :
 ```
 [ Clasec ]
